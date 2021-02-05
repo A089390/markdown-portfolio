@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Writing Code
+2. Playing Guitar
+3. Not making lists
